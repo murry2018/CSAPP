@@ -1,0 +1,8 @@
+# emacs temporary file
+*~
+.ccls-cache
+.#*
+\#*
+
+# archive files
+*.tar
